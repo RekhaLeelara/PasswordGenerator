@@ -7,11 +7,11 @@ This application helps to generate a random password based on the user inputs
 
 ## Application URL
 
-URL of the deployed application: https://rekhaleelara.github.io/Portfolio_RekhaLeelaraman/
+URL of the deployed application: https://rekhaleelara.github.io/PasswordGenerator/
 
 ## Usage
 
-The header application links will take the user to an appropriate section
+The application would generate a random password length of between 8 and 128 based on the user input
 
 ## Support
 
@@ -19,9 +19,7 @@ N/A
 
 ## Roadmap
 
-When the user click on the project images, the respective gihub page should be opened (In progress)
-
-The footer links section should display the respective applications (In progress)
+Improving the UI for the prompt messages and display colorful texts 
 
 ## License
 
@@ -29,7 +27,7 @@ N/A
 
 ## Project Status
 
-Developed by an amateur developer. More content and complex application coming soon! :)
+More enhancements on the prompt and other user experience would be handled in the future
 
 
 
